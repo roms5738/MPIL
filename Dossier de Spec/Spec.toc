@@ -1,0 +1,65 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{5}
+\contentsline {chapter}{Vocabulaires}{5}
+\contentsline {section}{Mur}{5}
+\contentsline {section}{Fil d\IeC {\textquoteright }actualit\IeC {\'e}s}{5}
+\contentsline {section}{Cercles d\IeC {\textquoteright }amis et liste d\IeC {\textquoteright }amis}{5}
+\contentsline {section}{Profils}{6}
+\contentsline {chapter}{Fil d'actualit\IeC {\'e}s}{6}
+\contentsline {section}{Acc\IeC {\'e}der au fil d\IeC {\textquoteright }actualit\IeC {\'e}s}{6}
+\contentsline {section}{Consulter Profil}{7}
+\contentsline {section}{Modifier Profil}{7}
+\contentsline {section}{Acc\IeC {\'e}der fil d\IeC {\textquoteright }actualit\IeC {\'e}s}{7}
+\contentsline {section}{Modifier son fil d\IeC {\textquoteright }actualit\IeC {\'e}s}{8}
+\contentsline {section}{Ajouter un amis dans le cercle d\IeC {\textquoteright }amis}{8}
+\contentsline {section}{Se d\IeC {\'e}sinscrire}{8}
+\contentsline {section}{Faire une recherche}{8}
+\contentsline {chapter}{Cours}{8}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} l\IeC {\textquoteright }interface}{9}
+\contentsline {section}{Cr\IeC {\'e}er un cours}{10}
+\contentsline {section}{Consulter un cours}{10}
+\contentsline {section}{Rechercher un cours}{10}
+\contentsline {section}{Faire une publication sur un cours}{11}
+\contentsline {section}{Commenter une publication sur un cours}{11}
+\contentsline {section}{Noter un cours}{11}
+\contentsline {section}{Demander un cours}{11}
+\contentsline {section}{M\IeC {\'e}moriser un cours}{12}
+\contentsline {section}{Retirer un cours de ses favoris}{12}
+\contentsline {chapter}{\IeC {\'E}v\IeC {\`e}nements}{12}
+\contentsline {section}{Acc\IeC {\'e}der aux \IeC {\'e}v\IeC {\`e}nements}{12}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} un \IeC {\'e}v\IeC {\`e}nement}{13}
+\contentsline {section}{Cr\IeC {\'e}er un \IeC {\'e}v\IeC {\`e}nement}{14}
+\contentsline {section}{Participer \IeC {\`a} un \IeC {\'e}v\IeC {\`e}nement}{14}
+\contentsline {section}{Supprimer un \IeC {\'e}v\IeC {\`e}nement}{14}
+\contentsline {section}{Commenter une publication}{14}
+\contentsline {section}{Quitter un \IeC {\'e}v\IeC {\`e}nement}{15}
+\contentsline {section}{Poster une publication sur le mur d\IeC {\textquoteright }un \IeC {\'e}v\IeC {\`e}nement}{15}
+\contentsline {section}{Commenter une publication sur le mur d\IeC {\textquoteright }un \IeC {\'e}v\IeC {\`e}nement}{15}
+\contentsline {chapter}{Associations}{15}
+\contentsline {section}{Acc\IeC {\'e}der aux associations}{15}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} une association}{16}
+\contentsline {section}{Cr\IeC {\'e}er une association}{17}
+\contentsline {section}{Rejoindre une association}{17}
+\contentsline {section}{Supprimer une association}{17}
+\contentsline {section}{Quitter une association}{17}
+\contentsline {section}{Poster une publication sur le fil d\IeC {\textquoteright }actualit\IeC {\'e}s d\IeC {\textquoteright }une association}{17}
+\contentsline {section}{Commenter une publication sur le fil d\IeC {\textquoteright }actualit\IeC {\'e}s d\IeC {\textquoteright }une association}{18}
+\contentsline {chapter}{Points d'int\IeC {\'e}r\IeC {\^e}ts}{18}
+\contentsline {section}{SAcc\IeC {\'e}der \IeC {\`a} la liste des points d\IeC {\textquoteright }int\IeC {\'e}r\IeC {\^e}ts}{18}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} un point d\IeC {\textquoteright }int\IeC {\'e}r\IeC {\^e}ts}{19}
+\contentsline {section}{Noter un point d\IeC {\textquoteright }int\IeC {\'e}r\IeC {\^e}t}{19}
+\contentsline {section}{M\IeC {\'e}moriser un point d\IeC {\textquoteright }int\IeC {\'e}r\IeC {\^e}t}{19}
+\contentsline {section}{Retirer un point d\IeC {\textquoteright }int\IeC {\'e}r\IeC {\^e}t de ses favoris}{20}
+\contentsline {section}{Poster un message sur mur}{20}
+\contentsline {chapter}{Formation}{20}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} sa formation}{20}
+\contentsline {section}{Poster une publication sur le mur d'une formation}{21}
+\contentsline {section}{Commenter une publication sur le mur d'une formation}{21}
+\contentsline {chapter}{Annonces}{21}
+\contentsline {section}{Acc\IeC {\'e}der aux annonces}{22}
+\contentsline {section}{Acc\IeC {\'e}der \IeC {\`a} une annonce}{22}
+\contentsline {section}{Cr\IeC {\'e}er une annonce}{23}
+\contentsline {section}{Modifier une annonce}{23}
+\contentsline {section}{Supprimer une annonce}{23}
+\contentsline {section}{R\IeC {\'e}pondre \IeC {\`a} une annonce}{24}
+\contentsline {section}{M\IeC {\'e}moriser une annonce}{24}
